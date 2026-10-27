@@ -1,44 +1,43 @@
 <p align="center">
-  <img src="./assets/runtime-observatory.svg" width="100%" alt="Yuecheng Wen — Runtime Observatory" />
+  <a href="https://wenyuecheng.cn/zh/">
+    <img src="https://raw.githubusercontent.com/WenYuecheng/WenYuecheng.github.io/main/public/images/generated/hero-day.webp" width="100%" alt="Yuecheng’s original anime study window overlooking a cherry-blossom town at sunset" />
+  </a>
 </p>
 
-## Hello, I'm Yuecheng Wen
+# Hi, I’m Yuecheng Wen
 
-**温悦成 · Computer Science undergraduate at Sichuan University**
+**Computer Science undergraduate at Sichuan University · Admitted to CUHK MSc in Computer Science, September 2027 intake**
 
-I build and study AI systems that need to reason, collaborate, retrieve evidence, and remain observable under real-world constraints. My current interests center on **agentic systems**, **reliable AI**, **retrieval-augmented generation**, **multi-agent collaboration**, and **AI safety**.
+I’m interested in **agents, recursive self-improvement (RSI), and parameter-efficient fine-tuning (PEFT)**. Through Weyra and SolaceAI, I explore reliable agent execution, verifiable skill evolution, context engineering, hybrid retrieval, and model adaptation.
 
-- Exploring reliable runtimes, evaluation harnesses, memory, context engineering, Skills, and MCP
-- Turning research questions into deployable and testable systems
-- Open to postgraduate study, research opportunities, and technical collaboration
+关注 **Agent、递归自我改进（RSI）与参数高效微调（PEFT）**，构建能够持续改进、可靠执行的智能体系统。以可验证的技能更新、上下文治理、检索增强和模型对齐为具体切入点。
 
-## Selected systems
+## Projects I’m building
 
-| System | What it demonstrates | Links |
+| Project | Focus | Explore |
 | --- | --- | --- |
-| **Yuecheng-Harness** | A local extensible runtime for coding agents, with tool governance, context folding, memory, Skills, MCP, sub-agents, session recovery, and replay evaluation. | [Repository](https://github.com/WenYuecheng/Yuecheng-harness) · [Case study](https://wenyuecheng.cn/projects/yuecheng-harness/) |
-| **MindBridge** | A safety-governed, event-driven multi-agent system for campus mental-health support, with auditable risk handling, hybrid retrieval, and human handoff. | [Live system](https://mindbridge.wenyuecheng.cn) · [Case study](https://wenyuecheng.cn/projects/mindbridge/) |
-| **EduRAG Agent** | A learning and interview-coaching agent built around hybrid retrieval, reranking, streaming answers, evaluation, and structured study workflows. | [Repository](https://github.com/WenYuecheng/edurag-agent) · [Case study](https://wenyuecheng.cn/projects/edurag-agent/) |
-| **Chat2Excel** | A natural-language-to-data system combining Spring AI, NL2SQL, microservices, distributed coordination, and SSE delivery. | [Repository](https://github.com/WenYuecheng/chat2Excel) · [Case study](https://wenyuecheng.cn/projects/chat2excel/) |
+| **Weyra** | A lightweight Python Agent Harness: recoverable sessions, context and budget governance, tools/MCP, and verification-driven skill evolution. 持续任务、可恢复执行与验证驱动技能演进。 | [Repository](https://github.com/WenYuecheng/Weyra) · [English](https://wenyuecheng.cn/projects/weyra/) · [中文详情](https://wenyuecheng.cn/zh/projects/weyra/) |
+| **SolaceAI · 心栖** | An emotional-support agent combining a governed multi-agent workflow, hybrid RAG, Qwen3 dual LoRA, PERM-GRPO and edge/cloud collaboration. 混合检索、双适配器与端云协同。 | [Live demo](https://solaceai.wenyuecheng.cn/) · [English](https://wenyuecheng.cn/projects/solaceai/) · [中文详情](https://wenyuecheng.cn/zh/projects/solaceai/) |
 
-## Research and engineering interests
+Project pages include architecture, implementation, technical notes and experiment scope. The public SolaceAI demo is a lightweight deployment; full local inference and historical training experiments are documented separately. Skill evolution is the current concrete route toward self-improvement, rather than a claim of general recursive capability gains.
 
-`Agent Runtime` · `Multi-Agent Systems` · `Reliable AI` · `RAG` · `AI Safety` · `Multimodal Reasoning` · `Evaluation Harnesses`
+项目详情保留实验样本、协议与适用范围；线上轻量体验与本地完整推理、训练实验分开展示。原 MindBridge 域名继续兼容访问。
 
-## Working toolkit
+## Education · 教育经历
 
-`Python` · `C++` · `SQL` · `Java` · `FastAPI` · `Spring Boot` · `Redis` · `Chroma` · `Docker` · `MCP`
+- **The Chinese University of Hong Kong / 香港中文大学** — Admitted to **MSc in Computer Science**, starting **September 2027 / 2027 年 9 月**.
+- **Sichuan University / 四川大学** — B.Eng. candidate in Computer Science and Technology, **2023–2027 (expected)**.
+- GPA **3.85/4.00** · Weighted average **91.01/100** · Class rank **top 8%** · IELTS **7.0**.
+- Selected courses: Algorithms **98**, Data Structures **94**, Calculus **95**, Linear Algebra **93**, Operating Systems **95**, Computer Networks **98**.
 
-## Education
+## Working with
 
-**Sichuan University** — B.Eng. candidate in Computer Science and Technology, expected 2027
-GPA **3.85/4.00** · Weighted average **91.01/100** · Cohort rank **26/320** · IELTS **7.0**
+`Python` · `TypeScript` · `Java` · `FastAPI` · `Spring Boot` · `SQLite` · `Redis` · `Docker` · `MCP` · `Hybrid RAG` · `LoRA` · `MLX`
 
-## Connect
+## Say hello · 联系我
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wenyuecheng.cn-0A2231?style=flat-square)](https://wenyuecheng.cn)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Mirror-222222?style=flat-square&logo=github)](https://wenyuecheng.github.io)
-[![Email](https://img.shields.io/badge/Email-15698557180%40163.com-C65F2C?style=flat-square)](mailto:15698557180@163.com)
-[![CSDN](https://img.shields.io/badge/CSDN-Lucas__Micheal-FC5531?style=flat-square&logo=csdn)](https://blog.csdn.net/Lucas_Micheal)
+[Personal universe / 个人主页](https://wenyuecheng.cn/zh/) · [English](https://wenyuecheng.cn/) · [GitHub Pages](https://wenyuecheng.github.io/zh/) · [CSDN](https://blog.csdn.net/Lucas_Micheal) · [Email](mailto:15698557180@163.com)
 
-<sub>Primary portfolio: <a href="https://wenyuecheng.cn">wenyuecheng.cn</a> · GitHub Pages mirror: <a href="https://wenyuecheng.github.io">wenyuecheng.github.io</a></sub>
+Happy to exchange ideas about agents, skill evolution, context engineering and model adaptation. 欢迎交流相关技术问题与合作想法。
+
+<sub>Original illustration created for this portfolio. 道阻且长，行则将至。</sub>
